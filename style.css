@@ -157,6 +157,79 @@ justify-content: center;
 }
 
 
+#conten{
+ width: 1600px;
+ height: 444px;
+ padding: 0px 120px 120px 120px;
+ margin: 0 auto;
+ text-align: center;
+}
+
+#conten .conten-info h1{
+font-size: 48px;
+font-weight: bold;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+color: #001931;
+margin-bottom: 16px;
+}
+
+#conten .conten-info p{
+ font-size: 16px;
+ line-height: 20px;
+ letter-spacing: 0%;
+ text-align: center;
+ color: #627382;
+ margin-bottom: 44px;
+}
+
+.info{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ gap: 24px;
+}
+
+.info .skill{
+ width: 322px;
+ height: 300px;
+ padding: 24px;
+ box-shadow: 0px 0px 8px 0  #00000027;
+}
+
+.skill img{
+ width: 60px;
+ background-color: #F95555;
+ margin-bottom: 16px;
+ align-items: center;
+
+}
+
+.skill h3{
+ font-size: 24px;
+ font-weight: 600px;
+ line-height: 29px;
+ letter-spacing: 0%;
+ text-align: center;
+ text-transform: capitalize;
+ margin-bottom: 16px;
+ color: #001931;
+}
+
+.skill p{
+ font-size: 16px;
+ font-weight: 400px;
+ line-height: 20px;
+ letter-spacing: 0%;
+ text-align: center;
+ color: #627382;
+}
+
+
+
+
+
 
 
 

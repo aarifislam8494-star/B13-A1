@@ -137,6 +137,9 @@ margin-bottom: 32px;
  color: #FFFFFF;
  cursor: pointer;
 }
+.btn2:hover{
+ background-color: #cc6f6f;
+}
 
 .banner-content .btn3{
 justify-content: center;
@@ -322,7 +325,50 @@ padding-bottom: 15px;
   background-color:#cc6f6f;
   
  }
+
+ #footer{
+  width: 1600px;
+  height: auto;
+  margin: 0 auto;
+  background-color: #001931;
+  padding: 120px 120px 30px 120px;
+  gap: 80px;
+ }
  
+
+ #footer .last-footer{
+ display: flex;
+ justify-content: space-between;
+ padding-bottom: 110px;
+ }
+
+ .last-footer .image{
+  width: 139px;
+  height: 60px;
+ }
+
+  .last-footer .Social{
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 28px;
+   color: #FFFFFF;
+   padding-bottom: 16px;
+  }
+
+  .last-footer .link{
+   display: flex;
+   height: 20px;
+   width: 20px;
+   gap: 20px;
+  }
+
+  #footer p{
+   font-size: 16px;
+   color: #FAFAFA;
+   line-height: 24px;
+   text-align: center;
+  }
+
 
 
 

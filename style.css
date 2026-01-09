@@ -231,7 +231,7 @@ margin-bottom: 16px;
  width: 1600px;
  height: 840px;
  margin: 0 auto;
- border: 1px solid red;
+ /* border: 1px solid red; */
 }
 .about-info{
  display: flex;
@@ -278,6 +278,62 @@ padding-bottom: 15px;
   color: #001931;
 
  }
+
+ #cntact{
+  width: 1600px;
+  height: auto;
+  margin: 0 auto;
+  padding: 2px 120px 120px 120px;
+  /* border: 1px solid red; */
+ }
+
+ #cntact .contact-section{
+  padding: 80px 40px;
+  text-align: center;
+  background-color: #F7F6F2;
+ }
+
+ .contact-section h1{
+  font-size: 40px;
+  font-weight: bold;
+  color: #001931;
+  padding-bottom: 16px;
+ }
+
+ .contact-section p{
+  font-size: 16px;
+  line-height: 24px;
+  color: #627382;
+  padding-bottom: 24px;
+ }
+
+ .contact-section .btn4{
+ background-color: #469165;
+ border: none;
+ padding: 12.5px 16px;
+ border-radius: 4px;
+ font-size: 16px;
+ font-weight: 600;
+ color: #FFFFFF;
+ align-items: center;
+ cursor: pointer;
+ }
+ .btn4:hover{
+  background-color:#cc6f6f;
+  
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
